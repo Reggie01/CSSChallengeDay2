@@ -1,0 +1,20 @@
+{
+  "name": "day2csschallenge",
+  "version": "1.0.0",
+  "description": "100 days of css challenge | Day 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "scss",
+    "js"
+  ],
+  "author": "Reggie01",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
